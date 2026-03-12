@@ -8,7 +8,7 @@ The repository is structured around seven distinct practical labs, each building
 
 ---
 
-### [TP1: Nested Virtualization with VMware](link-to-tp1-folder)
+### [TP1: Nested Virtualization with VMware](https://github.com/OussamaAbderraoufAttia/VCL-Reports-n-Explanation/tree/main/TP1)
 
 This foundational lab introduces the concept of **nested virtualization**. We deploy a Type-1 hypervisor (VMware ESXi) inside a Type-2 hypervisor (VMware Workstation) and build a complete, isolated environment from the ground up.
 
@@ -17,7 +17,7 @@ This foundational lab introduces the concept of **nested virtualization**. We de
 
 ---
 
-### [TP2: Linux Virtualization with KVM/QEMU](link-to-tp2-folder)
+### [TP2: Linux Virtualization with KVM/QEMU](https://github.com/OussamaAbderraoufAttia/VCL-Reports-n-Explanation/tree/main/TP2)
 
 This lab shifts focus to native Linux virtualization. We explore the KVM/QEMU stack and its management ecosystem, creating and managing virtual machines through both graphical and command-line interfaces.
 
@@ -26,7 +26,7 @@ This lab shifts focus to native Linux virtualization. We explore the KVM/QEMU st
 
 ---
 
-### [TP3: Storage Virtualization with iSCSI](link-to-tp3-folder)
+### [TP3: Storage Virtualization with iSCSI](https://github.com/OussamaAbderraoufAttia/VCL-Reports-n-Explanation/tree/main/TP2)
 
 Building on the KVM environment, this lab focuses on storage virtualization. We deploy a dedicated Storage Area Network (SAN) server and connect it to our KVM hypervisor using the iSCSI protocol, offloading VM storage to the network.
 
@@ -35,7 +35,7 @@ Building on the KVM environment, this lab focuses on storage virtualization. We 
 
 ---
 
-### [TP4: Virtual Datacenter with VMware vCenter](link-to-tp4-folder)
+### [TP4: Virtual Datacenter with VMware vCenter](https://github.com/OussamaAbderraoufAttia/VCL-Reports-n-Explanation/tree/main/TP4)
 
 We return to the VMware ecosystem to explore centralized management. This lab covers the deployment and configuration of vCenter Server to create a fully-featured virtual datacenter with high-availability features.
 
@@ -44,7 +44,7 @@ We return to the VMware ecosystem to explore centralized management. This lab co
 
 ---
 
-### [TP5: Containerization with LXC & Docker](link-to-tp5-folder)
+### [TP5: Containerization with LXC & Docker](https://github.com/OussamaAbderraoufAttia/VCL-Reports-n-Explanation/tree/main/TP5)
 
 This lab introduces the world of containerization, contrasting two popular technologies.
 - **Part A (LXC):** Focuses on OS-level virtualization by creating full, isolated Linux systems in containers to host separate web servers.
@@ -55,7 +55,7 @@ This lab introduces the world of containerization, contrasting two popular techn
 
 ---
 
-### [TP6: Container Orchestration with Kubernetes](link-to-tp6-folder)
+### [TP6: Container Orchestration with Kubernetes](https://github.com/OussamaAbderraoufAttia/VCL-Reports-n-Explanation/tree/main/TP6)
 
 As a logical follow-up to Docker, this lab introduces container orchestration. We deploy and manage a containerized application on a local Kubernetes cluster, exploring the core concepts of application lifecycle management at scale.
 
@@ -64,7 +64,7 @@ As a logical follow-up to Docker, this lab introduces container orchestration. W
 
 ---
 
-### [TP7: Using the OpenStack Platform](link-to-tp7-folder)
+### [TP7: Using the OpenStack Platform](https://github.com/OussamaAbderraoufAttia/VCL-Reports-n-Explanation/tree/main/TP7)
 
 The final lab culminates in the deployment of a complete, private Infrastructure-as-a-Service (IaaS) cloud. We install OpenStack from scratch and walk through the workflow of provisioning virtual resources as a cloud user.
 
